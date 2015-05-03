@@ -6,5 +6,13 @@
             "name": "Justin Martin",
             "email": "frozenfire@thefrozenfire.com"
         }
-    ]
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "files": [
+            "src/functions/ifsetor.php"
+        ]
+    }
 }
